@@ -2,10 +2,10 @@ import { motion } from "framer-motion";
 import { useState } from "react";
 import song from "./assets/music/song.mp3";
 import img1 from "./assets/photos/IMG_2174.jpg";
-import img2 from "./assets/photos/IMG_2736.jpg";
-import img3 from "./assets/photos/IMG_4569.jpg";
-import img4 from "./assets/photos/IMG_6108.jpg";
-import img5 from "./assets/photos/IMG_3627.jpg";
+import img2 from "./assets/photos/IMG_2736.JPG";
+import img3 from "./assets/photos/IMG_4569.JPG";
+import img4 from "./assets/photos/IMG_6108.JPG";
+import img5 from "./assets/photos/IMG_3627.JPG";
 function FloatingHeart({ delay, left }) {
   return (
     <motion.div
